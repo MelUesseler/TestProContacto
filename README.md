@@ -341,7 +341,9 @@ Introducción a la configuración de SalesCloud, elementos básicos.
 
 </details>
 
-Diagram Draw.io 
+**Diagram Draw.io**
+
+
 ![alt text](https://github.com/MelUesseler/TestProContacto/blob/347d6bd4a399e8cfa76c37f63274635f3303e556/Objetos%20de%20Salesforce.jpeg)
 
 ## Ejercicio 6 - Conocimientos Básicos :paperclip:

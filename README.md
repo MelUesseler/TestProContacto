@@ -13,9 +13,9 @@ Solución de ejercicios
 - [Ejercicio 1](https://github.com/MelUesseler/TestProContacto/edit/main/README.md#ejercicio-1).
 - [Ejercicio 2 - Protocolo HTTP](https://github.com/MelUesseler/TestProContacto/edit/main/README.md#ejercicio-2---protocolo-http).
 - [Ejercicio 3 - Ejecicio Práctico Postman](https://github.com/MelUesseler/TestProContacto/edit/main/README.md#ejercicio-3---ejecicio-práctico-postman).
-- [Ejercicio 4 - Trailhead](#ejercicio---4-trailhead).
-- [Ejercicio 5 - Objetos de Salesforce](Ejercicio-5-Objetos-de-Salesforce).
-- [Ejercicio 6 - Conocimientos Básicos](Ejercicio-6-Conocimientos-Básicos).
+- [Ejercicio 4 - Trailhead](#ejercicio-4---trailhead).
+- [Ejercicio 5 - Objetos de Salesforce](ejercicio-5---objetos-de-salesforce).
+- [Ejercicio 6 - Conocimientos Básicos](ejercicio-6---conocimientos-básicos).
 
 
 

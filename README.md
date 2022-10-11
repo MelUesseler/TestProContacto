@@ -292,6 +292,8 @@ Introducción a la configuración de SalesCloud, elementos básicos.
 ## Ejercicio 5 - Objetos de Salesforce
 [(Back to top)](#tabla-de-contenido)
 
+Explicación conceptual de los objetos: 
+
 <details><summary><b>Respuesta</b></summary>
 
     Lead 

@@ -200,7 +200,7 @@ Métodos de petición para indicar la acción que se desea realizar para un recu
 
 </details>
 
-9.    Explicar brevemente el estándar SOAP
+9.Explicar brevemente el estándar SOAP
 
 <details><summary><b>Respuesta</b></summary>
 
@@ -210,7 +210,7 @@ Métodos de petición para indicar la acción que se desea realizar para un recu
 
 </details>
 
-10.    Explicar brevemente el estándar REST Full
+10.Explicar brevemente el estándar REST Full
 
 <details><summary><b>Respuesta</b></summary>
 
@@ -221,7 +221,7 @@ Métodos de petición para indicar la acción que se desea realizar para un recu
 
 </details>
 
-11.    ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
+11.¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 
 <details><summary><b>Respuesta</b></summary>
     

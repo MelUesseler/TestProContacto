@@ -16,7 +16,7 @@ Solución de ejercicios
 - [Ejercicio 4 - Trailhead](#ejercicio-4---trailhead).
 - [Ejercicio 5 - Objetos de Salesforce](#ejercicio-5---objetos-de-salesforce).
 - [Ejercicio 6 - Conocimientos Básicos](#ejercicio-6---conocimientos-básicos).
-- [Ejercicio 7 - Conocimientos Básicos](#ejercicio-7---dataloader).
+- [Ejercicio 7 - Dataloader](#ejercicio-7---dataloader).
 
 ## Ejercicio 1 - Instalación del ambiente
 [(Back to top)](#tabla-de-contenido)

@@ -244,7 +244,7 @@ Métodos de petición para indicar la acción que se desea realizar para un recu
 1.    Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 
 **Respuesta:**
-Realicé un request GET a la URL solicitada, regreso la BD en formato JSON.
+Realicé un request GET a la URL solicitada, regreso la información en formato JSON.
 
 
 ![Screenshot](Request-GET.jpeg)
@@ -262,7 +262,7 @@ Realicé un request GET a la URL solicitada, regreso la BD en formato JSON.
 Tip: (Marcar la opción “raw” como body)
 
 **Respuesta:**
-Realicé un POST a la URL ingresando mi nombre, apellido, esto me regresó el Id de mi nombre y se realizó el envío de los datos que ingrese a la BD. 
+Realicé un POST a la URL ingresando mi nombre, apellido, esto me regresó el Id de mi nombre y se realizó el envío de los datos que ingresé. 
 
 
 ![Screenshot](Request-POST.jpeg)
@@ -274,7 +274,7 @@ Realicé un POST a la URL ingresando mi nombre, apellido, esto me regresó el Id
 3. ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
 **Respuesta:**
-Realicé nuevamente un request GET a la URL solicitada y me regresó la BD actualizada en formato JSON y pude visualizar los valores que ingresé en el punto anterior.
+Realicé nuevamente un request GET a la URL solicitada y me regresó la información actualizada en formato JSON con los valores que ingresé en el punto anterior.
 
 
 ![Screenshot](Request-GET-MelanieUesseler.jpeg)

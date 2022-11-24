@@ -1,4 +1,3 @@
-![Screenshot](AAE65725-82B6-423E-84BF-A9A41D85D4F4.jpeg)
 
 <h1 align="center">
   <br>

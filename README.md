@@ -546,11 +546,4 @@ Instalar la herramienta dataloader para mac e importar el archivo CSV.
 ![Screenshot](ChangePassword.jpeg)  
 
 
-    NOTE
-       
-       * No se permitio ingreso al Dataloader con cambio de contraseña y Cambio de URL
-       * URLs https://transunion2.my.salesforce.com / https://test.salesforce.com
-       
-
-
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-DONE-green)
